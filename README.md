@@ -8,6 +8,7 @@ Link para do curso [Python Pro](https://www.python.pro.br/account/login/?next=/d
 [![Build Status](https://travis-ci.org/fabriciovale20/libpythonpro.svg?branch=main)](https://travis-ci.org/fabriciovale20/libpythonpro)
 [![Updates](https://pyup.io/repos/github/fabriciovale20/libpythonpro/shield.svg)](https://pyup.io/repos/github/fabriciovale20/libpythonpro/)
 [![Python 3](https://pyup.io/repos/github/fabriciovale20/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/fabriciovale20/libpythonpro/)
+[![codecov](https://codecov.io/gh/fabriciovale20/libpythonpro/branch/main/graph/badge.svg?token=MH73B7I5RO)](https://codecov.io/gh/fabriciovale20/libpythonpro)
 
 Suportada versão 3 de Python
 
