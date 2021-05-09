@@ -19,6 +19,7 @@ class Sessao:
     def fechar(self):
         pass
 
+
 class Conexao:
     def __init__(self):
         sleep(1)
